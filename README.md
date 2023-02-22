@@ -1,1 +1,1 @@
-An application for real-time detection face, mouth and eyes (using webcame), built based on OpenCV.
+An application for real-time detection of face, mouth and eyes (using webcame), built based on OpenCV.
